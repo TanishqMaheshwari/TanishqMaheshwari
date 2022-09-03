@@ -4,4 +4,4 @@
 [![Outlook](https://img.shields.io/badge/-tmaheshw@uwaterloo.ca-gray?style=flat&logo=Gmail&logoColor=white&link=mailto:tmaheshw@uwaterloo.ca)](mailto:tmaheshw@uwaterloo.ca)
 
 
-I'm a Computer Science student at the University of Waterloo. Currently seeking winter and summer 2023 SWE, PM, and Venture internships.
+I'm a Computer Science student at the University of Waterloo entering my third year. Currently seeking winter and summer 2023 SWE, PM, and Venture internships.
