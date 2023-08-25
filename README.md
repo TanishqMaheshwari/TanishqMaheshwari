@@ -4,4 +4,4 @@
 [![Outlook](https://img.shields.io/badge/-tmaheshw@uwaterloo.ca-gray?style=flat&logo=Gmail&logoColor=white&link=mailto:tmaheshw@uwaterloo.ca)](mailto:tmaheshw@uwaterloo.ca)
 
 
-I'm a third year Computer Science student at the University of Waterloo currently seeking 2024 product management internships.
+I'm a third year Computer Science student at the University of Waterloo currently seeking 2024 internships.
